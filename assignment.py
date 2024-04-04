@@ -7,9 +7,9 @@ while True:
         continue
 
     break
-circumference = Diameter * math.pi
+Circumference = Diameter * math.pi
 Area = 1/4* math.pi * Diameter ** 2
 print("The circumference is") 
-print (circumference)
+print (Circumference)
 print("The Area is") 
 print (Area)
